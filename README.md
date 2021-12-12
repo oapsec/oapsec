@@ -2,4 +2,4 @@
 - 👀 I’m interested in offensive infosec as a whole, but more specifically: malware, reverse engineering, and hardware hacking.
 - 🌱 I’m currently learning everything I can get my hands on, but focusing on eLearnSec certs. 
 - 💞️ I’m looking to collaborate on any opportunity to learn or grow!
-- 📫 How to reach me via email @ oap@oapinfosec.com 
+- 📫 How to reach me: via email @ oap@oapinfosec.com 
